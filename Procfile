@@ -1,0 +1,1 @@
+web: gunicorn DevForce.wsgi --log-file
